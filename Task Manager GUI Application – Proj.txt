@@ -1,0 +1,9 @@
+Task Manager GUI Application – Project Description
+
+The Task Manager GUI Application is a desktop-based project developed using Python and Tkinter to help users efficiently organize and manage their daily tasks. The application provides a simple and interactive graphical user interface where users can create tasks by entering details such as task title, category, description, due date, and priority level.
+
+This project implements complete CRUD operations (Create, Read, Update, Delete) for task management. Users can add new tasks, view all saved tasks in a scrollable task list, edit existing tasks, and delete completed or unnecessary tasks with confirmation prompts. These features make task handling more convenient and user-friendly.
+
+A key feature of this application is persistent data storage using JSON files. All tasks are saved in a local JSON file, allowing users to retain their task records even after closing the application. When the program starts, previously saved tasks are automatically loaded into the interface, ensuring continuity and improving usability.
+
+The project also demonstrates strong understanding of Python programming concepts such as object-oriented programming (classes and objects), event-driven GUI development, file handling, exception handling, and data serialization. Overall, this project showcases practical software development skills by combining GUI design, data management, and user interaction into a real-world productivity application.
